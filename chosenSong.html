@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <button id="back">↻</button>
+    <div id="wropMusic">
+    <div><button id="after">◀</button>
+        </div>
+    <div id="audio"></div>
+    <div><button id="before">▶</button></div>
+ </div>
+    <div id="songName"></div>
+    <script src="chosenSong.js"></script>
+</body>
+<style>
+    
+    body{
+        font-family: sans-serif;
+    }
+    #wropMusic{
+        margin-top: 80px;
+        display: flex;
+        justify-content: space-between;
+    }
+    #audio>audio{
+    position: fixed;
+    width: 30vw;
+    top: 38vw;
+    right: 33vw;
+    }
+    #audio>img ,#audio>video{
+
+    margin-left: 4%;
+    margin-right: 25%;
+    width: 40vw;
+    height: 38vw;
+    }
+    #after, #before{
+        margin-top:250%;
+        height: 70px;
+        width: 70px;
+        border-radius: 50%;
+        background-color: rgb(172, 170, 170);
+        /* background-color:#4f0075 ; */
+        color: #555;
+        border-color: #555;
+    }
+    #after{
+        margin-left: 60px;
+    }
+    #before{
+        margin-right: 60px;
+    }
+    #songName{
+        font-size: 230%;
+        margin-top: 5px;
+        text-align: center;
+    }
+    #back{
+        position: absolute;
+    padding: 1%;
+    right: 70%;
+    top: 77%;
+    }
+</style>
+</html>

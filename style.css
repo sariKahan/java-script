@@ -1,0 +1,71 @@
+
+.button:hover {
+        background-color:rgb(73, 71, 71);
+    } 
+form>div{
+    display: inline-block;
+   
+}
+.button {
+        text-decoration: none;
+        font-size: 30px;
+        border: none;
+        background-color: #555;
+        padding: 16px 32px;
+        color: #4f0075;
+        height: 140px;
+        width: 74px;
+        margin-top: 0.9vw;
+        display: inline-block;
+        margin-right: 4px; 
+        transition-duration: 0.4s;
+        border-radius: 0%;
+    }
+body { 
+    text-align: center;
+    font-family: sans-serif;
+    direction: rtl;
+    background-image: url(image/לוגו\ מחודש.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    margin-top: 50px;
+    background-position: 90%;
+    }
+
+#open{
+    position: fixed;
+    margin-top: -0.5%;
+}
+input {
+    margin-right: 20%;
+    color: #555;
+    font-size: 20px;
+    background-color: #4f0075;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid #555;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+}
+
+input:focus {
+        color: #578784;
+        border: 3px solid #578784;
+    }
+#caption{
+        color: #314676;
+        font-size: 40px;
+        margin-top: 500px;
+       
+    }
+#alert{
+    display: inline-block;
+       padding: 200px;
+       /* background-color: #4f0075; */
+       position: fixed;
+       top: 0;
+       /* right: 50;   */
+       color: blueviolet;
+    }

@@ -1,0 +1,144 @@
+body{
+    direction: rtl;
+    font-family: sans-serif;
+   
+}
+
+/* 
+#divSongs>div{
+    margin :15px;
+}  */
+
+
+#divSongs>div{
+    background-color: #dbd9d9;
+    border: solid 4px #4f0075;
+    margin: 30px; 
+    padding: 5%;
+  }
+
+
+  #button{
+    position: fixed;
+    top: 10%;
+    margin-left: 80%;
+    margin-right: 10%;
+    width: 100px;
+    height: 50px;
+    background-color: #555555;
+    border: none;
+    color: #f1c500;
+    /* padding: 16px 32px; */
+    text-decoration: none;
+    /* margin: 4px 2px; */
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+
+  #button:hover {
+    background-color:  #4f0075;
+    color: #555555;
+  }
+
+
+#divSongs >div:hover{
+    cursor: pointer;
+}
+
+
+#divSongs{
+    font-size: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 90px;
+}
+
+
+
+
+
+
+#divSongs>div>input{
+    /* margin-top: 100px; */
+    width: 100px;
+    /* border: solid 20px #4f0075; */
+    height: 50px;
+  }
+
+
+#navigationBar{
+    text-align: center;
+    background-color: #4f0075;
+    padding:1vw;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+
+
+
+#navigationBar  a {
+    text-decoration: none; 
+    padding: 2vw;
+    color:  rgb(228, 227, 227);
+    font-size: 20px;
+}
+
+
+#navigationBar :hover{
+    color:  rgb(167, 163, 157);
+}
+#navigationBar>input{
+    margin-left: 300px;
+}
+input[type=text] {
+    width: 130px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('image/זכוכית\ מגדלת.PNG');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    transition: width 0.4s ease-in-out;
+  }
+  
+
+
+  input[type=text]:focus {
+    width: 20%;
+  }
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+  
+ 
+  
+  

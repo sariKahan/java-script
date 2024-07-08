@@ -1,0 +1,674 @@
+[
+   {
+      "location": "שירים/אברומי ויינברג/01 לנגן ולנגן.mp3",
+      "singerName": "אברומי ויינברג",
+      "songName": "לנגן ולנגן",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/אברומי ויינברג/02 עם סגולה.mp3",
+      "singerName": "אברומי ויינברג",
+      "songName": "עם סגולה",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/אברומי ויינברג/03 אשא עיני.mp3",
+      "singerName": "אברומי ויינברג",
+      "songName": "אשא עיני",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/אברומי ויינברג/04 עבדו את ה'.mp3",
+      "singerName": "אברומי ויינברג",
+      "songName": "עבדו את ה",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/אברומי ויינברג/05 אהבת ישראל.mp3",
+      "singerName": "אברומי ויינברג",
+      "songName": "אהבת ישראל",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/אברומי ויינברג/08 שיר עם מטרה.mp3",
+      "singerName": "אברומי ויינברג",
+      "songName": "שיר עם מטרה",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/אורי דוידי/01 הלואי.mp3",
+      "singerName": "אורי דוידי",
+      "songName": "הלואי",
+      "image": "image/אורי דוידי.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/אורי דוידי/05 אור.mp3",
+      "singerName": "אורי דוידי",
+      "songName": "אור",
+      "image": "image/אורי דוידי.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/אורי דוידי/10 בלבי.mp3",
+      "singerName": "אורי דוידי",
+      "songName": "בליבי",
+      "image": "image/אורי דוידי.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/אורי דוידי/11 יחד.mp3",
+      "singerName": "אורי דוידי",
+      "songName": "יחד",
+      "image": "image/אורי דוידי.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/אורי דוידי/02 ברכת האב.mp3",
+      "singerName": "אורי דוידי",
+      "songName": "ברכת האב",
+      "image": "image/אורי דוידי.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/אלי הרצליך/06 המלאך.mp3",
+      "singerName": "אלי הרצליך",
+      "songName": "המלאך",
+      "image": "image/אלי הרצליך.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/אלי הרצליך/01 קשר של קיימא.mp3",
+      "singerName": "אלי הרצליך",
+      "songName": "קשר של קיימא",
+      "image": "image/אלי הרצליך.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/אלי הרצליך/09 שמע בני.mp3",
+      "singerName": "אלי הרצליך",
+      "songName": "שמע בני",
+      "image": "image/אלי הרצליך.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/אלי הרצליך/04 מלך יחיד.mp3",
+      "singerName": "אלי הרצליך",
+      "songName": "מלך יחיד",
+      "image": "image/אלי הרצליך.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/אלי הרצליך/02 אני מאמין.mp3",
+      "singerName": "אלי הרצליך",
+      "songName": "אני מאמין",
+      "image": "image/אלי הרצליך.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/בני פרידמן/1 - יש תקוה.mp3",
+      "singerName": "בני פרידמן",
+      "songName": "יש תקוה",
+      "image": "image/בני פרידמן.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/בני פרידמן/04 חארשו.mp3",
+      "singerName": "בני פרידמן",
+      "songName": "חארושו",
+      "image": "image/בני פרידמן.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/בני פרידמן/02 כולנו נלך.mp3",
+      "singerName": "בני פרידמן",
+      "songName": "כולנו נלך",
+      "image": "image/בני פרידמן.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/בני פרידמן/06 כולם שרים.mp3",
+      "singerName": "בני פרידמן",
+      "songName": "כולם שרים",
+      "image": "image/בני פרידמן.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/בני פרידמן/06 תן לי.mp3",
+      "singerName": "בני פרידמן",
+      "songName": "תן לי",
+      "image": "image/בני פרידמן.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/חיים ישראל/בלילות.mp3",
+      "singerName": "חיים ישראל",
+      "songName": "בלילות",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "mizrachi"
+   },
+   {
+      "location": "שירים/חיים ישראל/זיו הקודש-עם נמואל הרוש.mp3",
+      "singerName": "חיים ישראל",
+      "songName": "זיו הקודש-עם נמואל הרוש",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "mizrachi"
+   },
+   {
+      "location": "שירים/חיים ישראל/מחרוזת-ידידים.mp3",
+      "singerName": "חיים ישראל",
+      "songName": "מחרוזת-ידידים",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "mizrachi"
+   },
+   {
+      "location": "שירים/חיים ישראל/תפילת הרב.mp3",
+      "singerName": "חיים ישראל",
+      "songName": " תפילת הרב",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "mizrachi"
+   },
+   {
+      "location": "שירים/יעקב שוואקי/02 לך עצמי.mp3",
+      "singerName": "יעקב שוואקי",
+      "songName": "לך עצמי",
+      "image": "image/שוואקי.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/יעקב שוואקי/03 א איד.mp3",
+      "singerName": "יעקב שוואקי",
+      "songName": "א איד",
+      "image": "image/שוואקי.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/יעקב שוואקי/05 לחיים - L'chaim_ A Toast to Life.mp3",
+      "singerName": "יעקב שוואקי",
+      "songName": "לחיים",
+      "image": "image/שוואקי.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/יעקב שוואקי/06 שתי נשמות - Shtei Neshamot.mp3",
+      "singerName": "יעקב שוואקי",
+      "songName": "שתי נשמות",
+      "image": "image/שוואקי.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/יעקב שוואקי/07 יגעתי.mp3",
+      "singerName": "יעקב שוואקי",
+      "songName": "יגעתי",
+      "image": "image/שוואקי.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/יעקב שוואקי/08 בא שבת - Bo Shabbos.mp3",
+      "singerName": "יעקב שוואקי",
+      "songName": "בא שבת",
+      "image": "image/שוואקי.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/יעקב שוואקי/09 לערנען - Lernin.mp3",
+      "singerName": "יעקב שוואקי",
+      "songName": "לערנען",
+      "image": "image/שוואקי.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/יעקב שוואקי/11 יבוא היום - Yavo Hayom.mp3",
+      "singerName": "יעקב שוואקי",
+      "songName": "יבוא היום",
+      "image": "image/שוואקי.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/יעקב שוואקי/12 המלאך Hamalach.mp3",
+      "singerName": "יעקב שוואקי",
+      "songName": "המלאך",
+      "image": "image/שוואקי.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/מאיר גרין/לשון הרע.mp3",
+      "singerName": "מאיר גרין",
+      "songName": "לשון הרע",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/מאיר גרין/מאיר גרין - ישמח חתני.mp3",
+      "singerName": "מאיר גרין",
+      "songName": "ישמח חתני",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/מאיר גרין/מאיר גרין _ האושר הבא _ Official music video by Meir Green.mp3",
+      "singerName": "מאיר גרין",
+      "songName": "האושר הבא",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/מאיר גרין/מאיר גרין-נקודה של אור.mp3",
+      "singerName": "מאיר גרין",
+      "songName": "נקודה של אור",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/מוטי שטיינמץ/01 לדור ודור.mp3",
+      "singerName": "מוטי שטיינמץ",
+      "songName": "לדור ודור",
+      "image": "image/מוטי שטיימץ.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/מוטי שטיינמץ/02 כה אמר.mp3",
+      "singerName": "מוטי שטיינמץ",
+      "songName": "כה אמר",
+      "image": "image/מוטי שטיימץ.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/מוטי שטיינמץ/03 הנשמה בקרבי.mp3",
+      "singerName": "מוטי שטיינמץ",
+      "songName": "הנשמה בקרבי",
+      "image": "image/מוטי שטיימץ.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/מוטי שטיינמץ/04 זכור ברית.mp3",
+      "singerName": "מוטי שטיינמץ",
+      "songName": "זכור ברית",
+      "image": "image/מוטי שטיימץ.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/מוטי שטיינמץ/05 בריוועלע.mp3",
+      "singerName": "מוטי שטיינמץ",
+      "songName": "בריוועלע",
+      "image": "image/מוטי שטיימץ.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/מוטי שטיינמץ/06 ואני.mp3",
+      "singerName": "מוטי שטיינמץ",
+      "songName": "ואני",
+      "image": "image/מוטי שטיימץ.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/מוטי שטיינמץ/07 ויהי נועם.mp3",
+      "singerName": "מוטי שטיינמץ",
+      "songName": "ויהי נועם",
+      "image": "image/מוטי שטיימץ.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/מוטי שטיינמץ/08 לכה דודי.mp3",
+      "singerName": "מוטי שטיינמץ",
+      "songName": "לכה דודי",
+      "image": "image/מוטי שטיימץ.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/מוטי שטיינמץ/09 אל תשליכני.mp3",
+      "singerName": "מוטי שטיינמץ",
+      "songName": "אל תשליכני",
+      "image": "image/מוטי שטיימץ.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/מוטי שטיינמץ/10 אנא בכח.mp3",
+      "singerName": "מוטי שטיינמץ",
+      "songName": "אנא בכח",
+      "image": "image/מוטי שטיימץ.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/מוטי שטיינמץ/11 כי שמחתני.mp3",
+      "singerName": "מוטי שטיינמץ",
+      "songName": "כי שמחתני",
+      "image": "image/מוטי שטיימץ.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/מוטי שטיינמץ/12 תנה בני.mp3",
+      "singerName": "מוטי שטיינמץ",
+      "songName": "תנה בני",
+      "image": "image/מוטי שטיימץ.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/משה פלד/משה פלד & ישי לפידות - יש מי שמחכה.mp3",
+      "singerName": "משה פלד",
+      "songName": "יש מי שמחכה",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/משה פלד/משה פלד - אותו היום.mp3",
+      "singerName": "משה פלד",
+      "songName": "אותו היום",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/משה פלד/משה פלד - דווקא עכשיו.mp3",
+      "singerName": "משה פלד",
+      "songName": "דווקא עכשיו",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/משה פלד/משה פלד אותו היום - רמיקס.mp3",
+      "singerName": "משה פלד",
+      "songName": "אותו היום - רמיקס",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/משה פלד/משה פלד מקום לטעויות.mp3",
+      "singerName": "משה פלד",
+      "songName": "מקום לטעויות",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/נמואל הרוש/01 כי לא יטוש.mp3",
+      "singerName": "נמואל הרוש",
+      "songName": "כי לא יטוש",
+      "image": "image/נמואל הרוש - אלף  עטיפה.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/נמואל הרוש/02 עד אליך.mp3",
+      "singerName": "נמואל הרוש",
+      "songName": "עד אליך",
+      "image": "image/נמואל הרוש - אלף  עטיפה.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/נמואל הרוש/03 הרגל את עצמך.mp3",
+      "singerName": "נמואל הרוש",
+      "songName": "הרגל את עצמך",
+      "image": "image/נמואל הרוש - אלף  עטיפה.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/נמואל הרוש/04 חיים.mp3",
+      "singerName": "נמואל הרוש",
+      "songName": "חיים",
+      "image": "image/נמואל הרוש - אלף  עטיפה.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/נמואל הרוש/05 כמה שאתה אוהב.mp3",
+      "singerName": "נמואל הרוש",
+      "songName": "כמה שאתה אוהב",
+      "image": "image/נמואל הרוש - אלף  עטיפה.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/נמואל הרוש/06 אם תשמע.mp3",
+      "singerName": "נמואל הרוש",
+      "songName": "אם תשמע",
+      "image": "image/נמואל הרוש - אלף  עטיפה.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/נמואל הרוש/07 לטב עביד.mp3",
+      "singerName": "נמואל הרוש",
+      "songName": "לטב עביד",
+      "image": "image/נמואל הרוש - אלף  עטיפה.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/נמואל הרוש/08 הנה אנוכי.mp3",
+      "singerName": "נמואל הרוש",
+      "songName": "הנה אנוכי",
+      "image": "image/נמואל הרוש - אלף  עטיפה.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/נפתלי קמפה/01 כמלאך.mp3",
+      "singerName": "נפתלי קמפה",
+      "songName": "כמלאך",
+      "image": "image/נפתלי קמפה.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/נפתלי קמפה/02 קרבני אליך.mp3",
+      "singerName": "נפתלי קמפה",
+      "songName": "קרבני אליך",
+      "image": "image/נפתלי קמפה.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/נפתלי קמפה/03 שנשתוקק.mp3",
+      "singerName": "נפתלי קמפה",
+      "songName": "שנשתוקק",
+      "image": "image/נפתלי קמפה.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/נפתלי קמפה/04 שובי.mp3",
+      "singerName": "נפתלי קמפה",
+      "songName": "שובי",
+      "image": "image/נפתלי קמפה.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/נפתלי קמפה/05 חושב על ירושלים.mp3",
+      "singerName": "נפתלי קמפה",
+      "songName": "חושב על ירושלים",
+      "image": "image/נפתלי קמפה.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/נפתלי קמפה/06 אם תעירו.mp3",
+      "singerName": "נפתלי קמפה",
+      "songName": "אם תעירו",
+      "image": "image/נפתלי קמפה.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/נפתלי קמפה/07 בך בטחו.mp3",
+      "singerName": "נפתלי קמפה",
+      "songName": "בך בטחו",
+      "image": "image/נפתלי קמפה.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/נפתלי קמפה/08 כי בנו בחרת.mp3",
+      "singerName": "נפתלי קמפה",
+      "songName": "כי בנו בחרת",
+      "image": "image/נפתלי קמפה.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/נפתלי קמפה/09 יחיד.mp3",
+      "singerName": "נפתלי קמפה",
+      "songName": "יחיד",
+      "image": "image/נפתלי קמפה.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/נפתלי קמפה/10 מקולות.mp3",
+      "singerName": "נפתלי קמפה",
+      "songName": "מקולות",
+      "image": "image/נפתלי קמפה.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/נפתלי קמפה/11 מנגינה של בית המדרש.mp3",
+      "singerName": "נפתלי קמפה",
+      "songName": "מנגינה של בית המדרש",
+      "image": "image/נפתלי קמפה.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/עקיבא/01 כמו שאת.mp3",
+      "singerName": "עקיבא",
+      "songName": "כמו שאת",
+      "image": "image/עקיבא.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/עקיבא/03 קרוב אליך.mp3",
+      "singerName": "עקיבא",
+      "songName": "קרוב אליך",
+      "image": "image/עקיבא.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/עקיבא/04 רבה אמונתך בי.mp3",
+      "singerName": "עקיבא",
+      "songName": "רבה אמונתך בי",
+      "image": "image/עקיבא.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/עקיבא/05 תלויים באהבה.mp3",
+      "singerName": "עקיבא",
+      "songName": "תלויים באהבה",
+      "image": "image/עקיבא.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/עקיבא/עקיבא - הללו את השם.mp3",
+      "singerName": "עקיבא",
+      "songName": "הללו את השם",
+      "image": "image/עקיבא.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/עקיבא/עקיבא - שלום בבית.mp3",
+      "singerName": "עקיבא",
+      "songName": "שלום בבית",
+      "image": "image/עקיבא.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/עקיבא/עקיבא תורג'מן - לך לך.mp3",
+      "singerName": "עקיבא",
+      "songName": "לך לך",
+      "image": "image/עקיבא.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/עקיבא/עקיבא תורג'מן - שובבים.mp3",
+      "singerName": "עקיבא",
+      "songName": "שובבים",
+      "image": "image/עקיבא.jpg",
+      "category": "israeli"
+   },
+   {
+      "location": "שירים/שלומי דסקל/01‏ ויהי נועם.mp3",
+      "singerName": "שלומי דסקל",
+      "songName": "ויהי נועם",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/שלומי דסקל/02‏ והראינו.mp3",
+      "singerName": "שלומי דסקל",
+      "songName": "והראינו",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/שלומי דסקל/03‏ כד יתבון.mp3",
+      "singerName": "שלומי דסקל",
+      "songName": "כד יתבון",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/שלומי דסקל/04‏ כשושנה.mp3",
+      "singerName": "שלומי דסקל",
+      "songName": "כשושנה",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/שלומי דסקל/05‏ רחם נא.mp3",
+      "singerName": "שלומי דסקל",
+      "songName": "רחם נא",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/שלומי דסקל/06‏ רחם.mp3",
+      "singerName": "שלומי דסקל",
+      "songName": "רחם",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/שלומי דסקל/07‏ הוא יבנה.mp3",
+      "singerName": "שלומי דסקל",
+      "songName": "הוא יבנה",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/שלומי דסקל/08‏ ריבונו.mp3",
+      "singerName": "שלומי דסקל",
+      "songName": "ריבונו",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/שלומי דסקל/09‏ תפילת השל''ה.mp3",
+      "singerName": "שלומי דסקל",
+      "songName": "תפילת השל''ה",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/שלומי דסקל/10‏ ומחליף את הזמנים.mp3",
+      "singerName": "שלומי דסקל",
+      "songName": "ומחליף את הזמנים",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/שלומי דסקל/11‏ ואני תפילתי.mp3",
+      "singerName": "שלומי דסקל",
+      "songName": "ואני תפילתי",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/שלומי דסקל/12‏ עתידין ישראל.mp3",
+      "singerName": "שלומי דסקל",
+      "songName": "עתידין ישראל",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/שלומי דסקל/13‏ ושננתם לבניך.mp3",
+      "singerName": "שלומי דסקל",
+      "songName": "ושננתם לבניך",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "chasidi"
+   },
+   {
+      "location": "שירים/שלומי דסקל/14‏ חפץ חיים.mp3",
+      "singerName": "שלומי דסקל",
+      "songName": "חפץ חיים",
+      "image": "image/shutterstock_33144181.jpg",
+      "category": "chasidi"
+   }
+]

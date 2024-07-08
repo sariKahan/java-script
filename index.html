@@ -1,0 +1,47 @@
+<!-- <!DOCTYPE html> -->
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/bootstrap-5.2.0-beta1-dist/css/bootstrap.css">
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+
+    <form id="form">
+        <div>
+            <input type="password" name="password" id="password" placeholder="הכנס סיסמא" required="required" pattern="\d{8}" title="הסיסמא צריכה לכלול 8 מספרים בלבד"><br>
+               
+            <input type="password" name="truePassword" id="truePassword" placeholder="אימות סיסמא" required="required">
+        </div>
+        <div id="open">
+            <button  type="button submit" class="button btn btn-primary" id="liveToastBtn"> » </button>
+        </div>
+    </form>
+    <div id="alert" class="toast-container position-fixed bottom-0 end-0 p-3">
+        <div id="liveToast" class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+          <div class="toast-header">
+            <!-- <img src="..." class="rounded me-2" alt="..."> -->
+            <strong class="me-auto"><img src="image/לוגו.jpg" width="150px"></strong>
+            <!-- <small>11 mins ago</small> -->
+            <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+          </div>
+          <div class="toast-body">
+           
+          </div>
+        </div>
+      </div>
+    <div id="caption"></div>
+    <script src="app.js"></script>
+    <script src="jquery.js"></script>
+    <script type="text/javascript" src="bootstrap-5.2.0-beta1-dist/js/bootstrap.js"></script>
+<script type="text/javascript" src="bootstrap-5.2.0-beta1-dist/js/bootstrap.min.js"></script>
+</body>
+
+</html>

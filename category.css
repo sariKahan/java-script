@@ -1,0 +1,90 @@
+body{
+    direction: rtl;
+    font-family: sans-serif;
+    background-color: rgb(167,163,157);  
+}
+
+#navigationBar{
+    text-align: center;
+    padding: 1vw;
+    position: fixed;
+ background-color: #4f0075;
+  width: 100%;
+  top: 0%;
+  padding: 30px;
+
+}
+#navigationBar :hover{
+   color:bisque;
+}
+#navigationBar a{
+    padding:2vw ;
+    text-decoration: none;
+    color: rgb(228, 227, 227);
+    font-size: 20px;
+}
+#categorySongs>div{
+    margin-top: 1550px;
+    padding: 80px;
+    margin-left: 5%;
+    margin-bottom: 15%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    cursor: pointer;
+    
+}
+#categorySongs a{
+    text-decoration: none;    
+}
+
+
+
+#chasidi>img{
+
+    position: absolute;
+    top: 1250px;
+    right:18%;
+    animation:circlel 10s  infinite;
+ 
+}
+#israeli>img{
+
+    position: absolute;
+    top: 1250px;
+    right:40%;
+    animation:circlel 15s  infinite;
+   
+}
+#mizrachi>img{
+
+    position: absolute;
+    top: 1250px;
+    right:60%;
+    animation:circlel 10s  infinite;
+   
+}
+
+
+
+@keyframes circlel{
+    0%{
+  opacity: 0;
+    }
+    40%{
+        opacity: 0.5;
+    }
+   80%{
+    opacity: 0.8;
+   }
+   
+    100%{
+       opacity:1; 
+    }
+}
+#imgLogo{
+    position: absolute;
+    margin-right: 3%;
+    top: 10%;
+    width: 90%;
+}
